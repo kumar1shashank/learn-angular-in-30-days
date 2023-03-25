@@ -109,7 +109,7 @@ day wise plan to learn angular in 30 days with mini projects for each days gener
 - Learn how to follow the Angular style guide, how to use TypeScript effectively, and how to structure the app's files and folders.
 **Mini project**: Review the app's code and refactor it to follow best practices.
 
-# Day 21-30: Advanced Angular Concepts
+# Week 5: Advanced Angular Concepts
 
 **Day 21: RxJS and Observables in Angular**
 - Understand what Reactive programming is and how to use it in an Angular app.
